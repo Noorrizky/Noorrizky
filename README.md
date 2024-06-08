@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noor Rizky Permana</h1>
-<h3 align="center">An engineer on proccess.</h3>
+<h3 align="center">I am currently pursuing an Informatics Engineering degree at Politeknik Negeri Banjarmasin. I am passionate about improving my skills and expanding my knowledge in the IT world. I'm eager to connect with professionals in the tech industry and explore opportunities to contribute my skills and knowledge.</h3>
 
 - 🌱 I’m currently learning **Laravel, Kotlin**
 
