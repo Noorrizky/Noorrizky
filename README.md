@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Noor Rizky Permana</h1>
-<h3 align="center">A learner, explorer, coffee and tea enjoyer</h3>
+<h3 align="center">A learner, explorer, coffee, milk, and tea enjoyer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorrizky&label=Profile%20views&color=0e75b6&style=flat" alt="noorrizky" /> </p>
 
-- 🌱 I’m currently learning **Laravel and Kotlin**
+- 🌱 I’m currently learning **Kotlin and Laravel**
 
 - 📫 How to reach me **noorrizkypermana@gmail.com**
 
