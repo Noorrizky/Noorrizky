@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorrizky&label=Profile%20views&color=0e75b6&style=flat" alt="noorrizky" /> </p>
 
-- 🌱 I’m currently learning **Laravel and Kotlin on the side.**
+- 🌱 I’m currently learning **Laravel (and Kotlin on the side).**
 
 - 📫 How to reach me **noorrizkypermana@gmail.com**
 
