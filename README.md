@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker and Javascript**
 
-- 📫 How to reach me **noorrizkypermana@gmail.com**
+- 📫 How to reach me **noorrizkypermana@gmail.com && LinkedIn dm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
